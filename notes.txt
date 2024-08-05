@@ -1,0 +1,10 @@
+Curso de Maquetación
+
+- Añadir el CDK mediante
+>> ng add @angular/cdk
+
+- Descargar ilustraciones para páginas
+>> https://undraw.co/
+
+- Estilos predeterminados para los inputs de los formualrios
+>> github.com/tailwindlabs/tailwindcss-forms
